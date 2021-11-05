@@ -9,6 +9,8 @@ Mario Medina - 201814212
 Joshua Olave -  201821591
 
 ## instrucciones DEMO
+![image](https://user-images.githubusercontent.com/60241569/140460748-d75e55c3-2ef8-4c2d-9b50-805b038999bc.png)
+
 ### 1. Instalacion
 ### Pre-requisitos para desarrollo
 Unity Hub
