@@ -2,13 +2,12 @@
  ***
 Aprende como responder a una situacion de riesgo utilizando el protocolo de emergencia CPR(Reanimación cardiopulmonar), mediante el cual podras salvar la vida de alguien que sufra de sintomas de paro cardiaco.
 ### Integrantes:
-Valentina Uribe
-Mario Medina
-Joshua Olave
+Valentina Uribe - 201817485
+Mario Medina - 201814212
+Joshua Olave -  201821591
 
-# instrucciones DEMO
-## 1. Instalacion
-***
+## instrucciones DEMO
+### 1. Instalacion
 ### Pre-requisitos para desarrollo
 Unity Hub
 Instalación de Unity Hub
@@ -20,7 +19,6 @@ Unity Editor Versión 2020.26.1f1
 
 ### Instalación para dessarollo
 En Git
-
 1. Clonar el repositorio de GitHub
     git clone --recurse-submodules -j8 https://github.com/jm-olave/DEMO-2---ISIS4814
 2. Después de clonar el repositorio, abra el proyecto en unity.
@@ -33,4 +31,12 @@ En Unity Hub:
 ### Instalación para despliegue
 - Desplegar desde Unity Editor:
 [Ver Guía de instalación y despliegue para desarrollo](https://circuitstream.com/blog/htc-vive-tutorial/)
+Desplegar el proyecto desde Unity
+En Unity Editor
+Seleccionar la pestaña "File"
+![image](https://user-images.githubusercontent.com/60241569/140458628-671e95cc-92fb-4717-af06-fa2a6efc4570.png)
+-En el menú desplegado seleccionar la opción "Build Settings"
+-Seleccionar la plataforma PC y desplegar dando la opcion run drive.
+
+
 
