@@ -3,18 +3,23 @@
 Aprende como responder a una situacion de riesgo utilizando el protocolo de emergencia CPR(Reanimación cardiopulmonar), mediante el cual podras salvar la vida de alguien que sufra de sintomas de paro cardiaco.
 ### Integrantes:
 Valentina Uribe - 201817485
+
 Mario Medina - 201814212
+
 Joshua Olave -  201821591
 
 ## instrucciones DEMO
 ### 1. Instalacion
 ### Pre-requisitos para desarrollo
 Unity Hub
+
 Instalación de Unity Hub
+
 Unity Editor Versión 2020.26.1f1
 
 ### Software:
 [Twine](https://twinery.org/)
+
 [Unity](https://unity.com/es)
 
 ### Instalación para dessarollo
