@@ -10,6 +10,8 @@ Joshua Olave -  201821591
 
 ## instrucciones DEMO
 ![image](https://user-images.githubusercontent.com/60241569/140460748-d75e55c3-2ef8-4c2d-9b50-805b038999bc.png)
+### link video demo:
+https://youtu.be/k86RPE4uzg4
 
 ### 1. Instalacion
 ### Pre-requisitos para desarrollo
