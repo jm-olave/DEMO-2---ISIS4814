@@ -35,7 +35,10 @@ Desplegar el proyecto desde Unity
 En Unity Editor
 Seleccionar la pestaña "File"
 ![image](https://user-images.githubusercontent.com/60241569/140458628-671e95cc-92fb-4717-af06-fa2a6efc4570.png)
+
+
 -En el menú desplegado seleccionar la opción "Build Settings"
+
 -Seleccionar la plataforma PC y desplegar dando la opcion run drive.
 
 
